@@ -17,5 +17,5 @@
 - Tahmin sonucu alınamıyorsa: Seçtiğiniz görselin formatı desteklenmeyebilir (jpg, jpeg, png desteklenir).
 
 ## İletişim
-Herhangi bir sorun veya geri bildirim için [yasinenestr34@mail.com](mailto:yasinenestr34@mail.com) adresine yazabilirsiniz.
+Herhangi bir sorun veya geri bildirim için [yasinenestr34@gmail.com](mailto:yasinenestr34@gmail.com) adresine yazabilirsiniz.
 
