@@ -1,0 +1,8 @@
+                      precision    recall  f1-score   support
+
+          AnnualCrop     0.9966    0.9817    0.9891       600
+HerbaceousVegetation     0.9819    0.9967    0.9892       600
+
+            accuracy                         0.9892      1200
+           macro avg     0.9893    0.9892    0.9892      1200
+        weighted avg     0.9893    0.9892    0.9892      1200
