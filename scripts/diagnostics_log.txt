@@ -1,0 +1,10 @@
+ERROR:root:Tanýlama hatasý
+Traceback (most recent call last):
+  File "C:\Users\yasin\Desktop\GeoHarvest_AI\GeoHarvest_App\scripts\system_diagnostics.py", line 76, in comprehensive_diagnostics
+    raise Exception("Tanýlama testi")
+Exception: Tanýlama testi
+ERROR:root:Tanýlama hatasý
+Traceback (most recent call last):
+  File "C:\Users\yasin\Desktop\GeoHarvest_AI\GeoHarvest_App\scripts\system_diagnostics.py", line 76, in comprehensive_diagnostics
+    raise Exception("Tanýlama testi")
+Exception: Tanýlama testi
